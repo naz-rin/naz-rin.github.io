@@ -7,7 +7,7 @@
 		li {display: inline-block;}
 		li a {display: inline-block;  color: white; text-align: center; padding: 14px 16px; text-decoration: none;}
 		li a:hover {background-color: #737373;}
-		p {text-align:center;}
+		p {text-align:center; font-size:15px;}
 		a2 {text-align:center}
 		p2 {text-align:center}
 		script {text-align:center;}
